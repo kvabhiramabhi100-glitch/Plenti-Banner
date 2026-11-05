@@ -1,0 +1,13 @@
+# This folder holds other projects too; only the banner is tracked.
+/*
+!/.gitignore
+!/README.md
+!/PlentiBanner/
+!/PlentiBannerDemo/
+!/PlentiBanner-preview.mp4
+
+.DS_Store
+.build/
+.swiftpm/
+xcuserdata/
+DerivedData/
